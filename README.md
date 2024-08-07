@@ -1,6 +1,6 @@
 ## Book-Recommender-System - Overview
 - This project has two main objectives.
-- First objective is to show **Top 20** books of taken dataset.
+- First objective is to show **Top 10** books of taken dataset.
   - This is Popularity Based Recommender System
 - And the second objective is to recommend 5 books to user entered book.
   - This is Collaborative Filtering Type of recommendation
@@ -8,7 +8,6 @@
 - At the beginning data merging and data cleaning was performed.
 - **Streamlit**'framework was being used and web app was created.
 - The web app was then deployed on **Streamlit Cloud**.
-- Link: https://prachipatel15-book-recommender-system-app-batk0m.streamlit.app/
 
 ## Data
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
@@ -27,8 +26,5 @@ https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 ## Conclusion 
 - Both Popularity and Collaborative firterling are working at some extend.
 - In collaborative filtering, cosine similarity pays huge role and it's results were more consistent.
-- Here is some of the pictures from the web app.
-- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-1.png)
-- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/webapp-2.png) 
 
 
